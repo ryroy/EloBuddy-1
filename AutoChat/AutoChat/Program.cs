@@ -106,47 +106,47 @@ namespace AutoChat
         {
             Congrats = new List<string>
             {
-                "gj", "gj", "gj", "gj", "good job", "wp", "nice", "goodjob", "gjwp", "nice one", "sweet", "awesome"
+                "that was nice", "gj", "damn you got em", "oh damn!!", "gud shit", "wp", "nice!!", "goodjob", "gjwp", "nice one", "noicuh", "awesome"
             };
 
             Smileys = new List<string>
             {
-                "", "", "", "", "", ":)", ":P"
+                ":D", "", "", "c:", "(:", "", "", ":)", "", "xD", ":3"
             };
 
             Greetings = new List<string>
             {
-                "gl", "hf", "have fun guys", "gl hf", "glhf", "have fun all"
+                "glhf boyzz", "have fun peepz", "have fun boyzzz", "glhf peepz", "glhf"
             };
 
             SignOff = new List<string>
             {
-                "gg", "ggwp", "gg wp"
+                "gg bros", "ggwp friendos", "gg wp boyos", "good game guys"
             };
 
             Apologize = new List<string>
             {
-                "damn", "sorry guys", "sorry", "woops", "soz", "my bad"
+                "damn", "sorry guys -.-", "sorry", "woops", "soz", "my bad", "I fked up", "i'm so bad >.<", "lol i suck"
             };
 
             Sympathy = new List<string>
             {
-                "bl", "bl", "tough luck", "bad luck", "bummer"
+                "its ok", "damn", "shiiii", "its k", "", "dw we still got dis", "", "focus guys"
             };
 
             Clutch = new List<string>
             {
-                "hahaha", "NICE", "GJ", "WELL DONE", "HAHA", "epic", "REKT", "WOW", "GG"
+                "wtf noicuh", "NICE", "GJ", "", "HOLLE SHIT", "ayyyyyy", "GET REKT", "lez go", "DAMNSON"
             };
 
             Motivate = new List<string>
             {
-                "push towers", "towers" , "clear lanes", "push", "need objectives", "objectives" ,"lanes", "push", "drag?"
+                "let go boyz", "push push" , "gogogo", "", "we got em", "we got dis boyz" ,"", "puuuuush", ""
             };
 
             Honor = new List<string>
             {
-                "wp" ,"wp" , "wp sir", "damn wp", "wp mate", "wp dude", "wp man"
+                "wp" ,"nice one" , "wp sir, u got me", "damn wp", "wp mate", "you got me there", "damn that was fking nice"
             };
         }
         #endregion
