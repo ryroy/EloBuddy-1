@@ -126,27 +126,27 @@ namespace AutoChat
 
             Apologize = new List<string>
             {
-                "damn", "sorry guys -.-", "sorry", "woops", "soz", "my bad", "I fked up", "i'm so bad >.<", "lol i suck"
+                "damn", "sorry guys -.-", "sorry", "woops", "soz", "my bad", "I fked up", "i'm so bad", "lol i suck"
             };
 
             Sympathy = new List<string>
             {
-                "its ok", "damn", "shiiii", "its k", "", "dw we still got dis", "", "focus guys"
+                "its ok", "damn", "shiiii", "its k", "", "dw we still got dis", "", "focus pls"
             };
 
             Clutch = new List<string>
             {
-                "wtf noicuh", "NICE", "GJ", "", "HOLLE SHIT", "ayyyyyy", "GET REKT", "lez go", "DAMNSON"
+                "wtf noicuh", "NICE", "GJ", "", "HOLLE SHIT", "ayyyyyy", "GET REKT", "lez go", "DAMN SON"
             };
 
             Motivate = new List<string>
             {
-                "let go boyz", "push push" , "gogogo", "", "we got em", "we got dis boyz" ,"", "puuuuush", ""
+                "let go boyz", "push push" , "gogogo", "", "we got em", "we got dis boyz" ,"", "puuuuush"
             };
 
             Honor = new List<string>
             {
-                "wp" ,"nice one" , "wp sir, u got me", "damn wp", "wp mate", "you got me there", "damn that was fking nice"
+                "wp" ,"nice one" , "wp sir, u got me", "damn wp", "wp mate", "you got me there", "damn that was fking nice", "this team"
             };
         }
         #endregion
